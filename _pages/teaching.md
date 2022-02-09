@@ -1,7 +1,9 @@
 ---
 layout: page
+#permalink: /teaching/
 permalink: /teaching/
-title: teaching
+#title: teaching
+title: CV
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
